@@ -18,7 +18,7 @@ url: "https://eemergeit.github.io"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: False
+force-https: True
 
 # Sections shown in the index page
 
