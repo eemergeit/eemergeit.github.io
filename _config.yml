@@ -43,7 +43,7 @@ keywords: "eemerge, 3d, print, 3d models"
 # Intro layout #
 ################
 
-black-favicon: "/img/favicon.ico"
+black-favicon: "/img/white-3d.png"
 background-img: "../img/intro-bg.jpg"
 me-img: "/img/3dprint_icon.png"
 
