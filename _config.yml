@@ -25,7 +25,7 @@ force-https: False
 pages_list:
   About: 'about'
   #Blog: 'latest-post'
-  #Timeline: 'timeline'
+  Timeline: 'timeline'
   Contact: 'contact'
 
 #############
@@ -88,8 +88,8 @@ events:
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/career/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Mid 2015"
+    description: "Concept"
 
 # First image of the Career timeline
 career-img: "/img/career/default.png"
