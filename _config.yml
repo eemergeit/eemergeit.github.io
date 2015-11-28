@@ -85,11 +85,14 @@ disqus-shortname: "panossakkos"
 
 events:
   - image: "/img/career/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/career/baracktocat.jpg"
-    date: "Mid 2015"
+    date: "Nov 2015"
     description: "Concept"
+  - image: "/img/career/baracktocat.jpg"
+    date: "Jan 2016"
+    description: "Prototype"
+  - image: "/img/career/spidertocat.png"
+    date: "? 2016"
+    description: "Release"
 
 # First image of the Career timeline
 career-img: "/img/career/default.png"
