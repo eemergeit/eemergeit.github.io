@@ -26,6 +26,7 @@ pages_list:
   #About: 'about'
   #Blog: 'latest-post'
   Timeline: 'timeline'
+  About: 'about'
   Contact: 'contact'
 
 #############
