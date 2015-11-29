@@ -23,7 +23,7 @@ force-https: False
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  #About: 'about'
   #Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
