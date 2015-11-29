@@ -117,20 +117,12 @@ ul li {
   background-position: 0px 0px !important;
 }
 #list li:nth-child(2) figure > div > div {
-  background-position: 0px 20% !important;
+  background-position: 0px 50% !important;
 }
 #list li:nth-child(3) figure > div > div {
-  background-position: 0px 40% !important;
-}
-#list li:nth-child(4) figure > div > div {
-  background-position: 0px 60% !important;
-}
-#list li:nth-child(5) figure > div > div {
-  background-position: 0px 80% !important;
-}
-#list li:nth-child(6) figure > div > div {
   background-position: 0px 100% !important;
 }
+
 
 .active {
   opacity: 1 !important;
