@@ -110,7 +110,7 @@ ul li {
 }
 #list li figure figcaption p {
   color: #666;
-  font-size: 0.9rem;
+  font-size: 2.5rem;
   font-weight: 400;
 }
 #list li:nth-child(1) figure > div > div {
