@@ -37,9 +37,9 @@ ul li {
   left: 50%;
   max-width: 750px;
   opacity: 0;
-  -webkit-transform: translate(-50%, -50%);
-      -ms-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -10%);
+      -ms-transform: translate(-50%, -10%);
+          transform: translate(-50%, -10%);
 }
 .slider--teams .slider--teams__team {
   position: relative;
