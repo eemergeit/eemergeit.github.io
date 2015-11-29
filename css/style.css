@@ -81,7 +81,7 @@ ul li {
           transform: scale(0.7) translateZ(0px);
 }
 #list li figure > div {
-  border-radius: 5px;
+  border-radius: 50%;
   position: relative;
   margin: 2rem auto;
   width: 120px;
