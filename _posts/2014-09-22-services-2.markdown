@@ -1,0 +1,8 @@
+---
+layout: default
+img: devices.png
+category: Services
+title: 3D Printing on a fingertip
+description: |
+---
+  eemerge is available on every electronic device and assures full compatibility with all printers

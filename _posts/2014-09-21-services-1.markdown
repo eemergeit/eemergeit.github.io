@@ -1,0 +1,9 @@
+---
+layout: default
+img: how_it_works.png
+category: Services
+title: How it works
+description: |
+---
+  <b>eemerge</b> let users to surf its amazing galleries or search their desires. 
+  Users can easily get inspired or refine the research with criteria like quality and price, technology, printing systems and costs.

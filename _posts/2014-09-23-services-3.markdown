@@ -1,0 +1,10 @@
+---
+layout: default
+img: team.png
+category: Services
+title: Meet eemerge
+description: |
+---
+We are three enterprising guys from Apulia with a passion for 3D printing.<br>
+We are determined to revolutionize the current production paradigm and transform the trading patterns. <br>
+We want to eliminate physical constraints between an idea and its realization.
